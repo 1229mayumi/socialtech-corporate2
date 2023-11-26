@@ -452,8 +452,8 @@ PC用のスタイル
   #footer-link {
     margin-bottom: 50px;
   }
-  #fotter-link > a {
-    /* color:#ffffff; */
+  #footer-link > a {
+    color:#ffffff;
     text-decoration: none;
     margin: 10px;
   }
