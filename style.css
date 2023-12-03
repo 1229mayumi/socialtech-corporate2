@@ -524,7 +524,7 @@ PC用のスタイル
     font-size: 26px;
   }
 
-  mission-title > div {
+  #mission-title > div {
     position: absolute;
     top: 350px;
     left: 100px;
