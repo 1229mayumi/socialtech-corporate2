@@ -250,7 +250,7 @@ PC用のスタイル
   .culture-num {
     font-size: 80px;
     color: #2710d5;
-    margin: 0 20px 0 0x;
+    margin: 0 20px 0 0;
   }
 
   /* 組織文化英語 */
@@ -544,7 +544,7 @@ PC用のスタイル
   .mission-h2::after {
     content: none;
   }
-  
+
 }
 
 /* ===================
@@ -661,7 +661,7 @@ PC用のスタイル
     border-radius: 476px 0 0 0;
     z-index: 10;
     position: absolute;
-    bottom: o;
+    bottom: 0;
     right: 0;
   }
 
@@ -730,7 +730,7 @@ PC用のスタイル
 }
 
 .product-explain > h3 {
-  margin: 10px0 10px 0;
+  margin: 10px 0 10px 0;
 }
 
 /* 画像 */
@@ -817,12 +817,12 @@ PC用のスタイル
 
   .vision-box > span > h5 {
     font-size: 20px;
-    margi: 0 0 0 0;
+    margin: 0 0 0 0;
   }
 
   /* 会社概要 */
   #company {
-    margin: 0 20px o 20px;
+    margin: 0 20px 0 20px;
   }
   
   #company > h3 {
@@ -930,7 +930,7 @@ PC用のスタイル
   }
 
   .radiobutton + label::after {
-    content: \A;
+    content: "\A";
     white-space: pre;
 
   }
