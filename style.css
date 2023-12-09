@@ -531,7 +531,7 @@ PC用のスタイル
     font-size: 16px;
   }
 
-  #mission-s2DGS {
+  #mission-s2dgs {
     width: 100%;
     margin: 20px;
   }
@@ -545,6 +545,44 @@ PC用のスタイル
     content: none;
   }
 
+  #mission-5goals {
+    margin: 20px;
+    display: flex;
+  }
+
+  #mission-5goals > div {
+    flex-grow: 1;
+    padding: 20px;
+  }
+
+  #mission-5goals > div > div {
+    margin-bottom: 40px;
+  }
+
+  .fivegoals-image-right {
+    float: right;
+    margin: 20px;
+  }
+
+  .fivegoals-image-left {
+    float: left;
+    margin: 20px;
+  }
+
+  .fivegoals-number {
+    color: #2710d5;
+    font-size: 48px;
+    margin: 0;
+  }
+
+  .fivegoals-h3 {
+    font-size: 28px;
+    margin: 0;
+  }
+
+  .fivegoals-p {
+    margin: 0;
+  }
 }
 
 /* ===================
